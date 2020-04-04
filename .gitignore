@@ -1,0 +1,6 @@
+/src/*
+.DS_Store
+/.idea
+lib/*
+bin/*
+pyvenv.cfg
